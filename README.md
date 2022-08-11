@@ -2,8 +2,9 @@
 An astronaut needs to go to the middle of the square (mark with X).
 
 
-# The output for the given exmple:
+## The output for the given exmple:
 
+```
 Start:
    +---+---+---+---+---+
  5 | 1 |   | 2 |   | 3 |
@@ -186,3 +187,4 @@ Step 12:
    +---+---+---+---+---+
      1   2   3   4   5
 
+```
